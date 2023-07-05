@@ -1,0 +1,57 @@
+{
+  "name": "magnet2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "firebase": "^8.4.3",
+    "focus-trap-react": "^8.11.1",
+    "formik": "^2.2.9",
+    "react-ckeditor-component": "^1.1.0",
+    "react-floating-whatsapp": "^4.0.5",
+    "react-icons": "^4.3.1",
+    "react-paginate": "^8.1.3",
+    "react-responsive": "^9.0.0-beta.6",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "react-scroll-progress-bar": "^1.1.13",
+    "react-slick": "^0.29.0",
+    "react-spinners": "^0.11.0",
+    "react-toastify": "^9.0.1",
+    "react-typing-effect": "^2.0.5",
+    "reactjs-popup": "^2.0.5",
+    "styled-components": "^5.3.5",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
